@@ -28,7 +28,7 @@
 ### 从 Obsidian 社区插件库安装
 1. 打开 Obsidian。
 2. 进入 `设置` > `社区插件` > `浏览`。
-3. 搜索 **Obsidian 中文字符统计插件**。
+3. 搜索 **chinese-wordcount**。
 4. 点击 `安装` 并启用插件。
 
 ### 手动安装
@@ -118,7 +118,7 @@ A lightweight and efficient plugin for Obsidian that helps you track the charact
 ### From the Obsidian Community Plugins
 1. Open Obsidian.
 2. Go to `Settings` > `Community Plugins` > `Browse`.
-3. Search for **Obsidian Chinese Word Count Plugin**.
+3. Search for **chinese-wordcount**.
 4. Click `Install` and enable the plugin.
 
 ### Manual Installation
