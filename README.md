@@ -16,6 +16,12 @@
 
 - 插件启用后会在状态栏增加： 本章字符：0 的状态栏项。
 
+## 其它中文字数统计计算
+- 在线字数统计网站 : [https://textlen.com/zh](https://textlen.com/zh)
+![示例2](https://github.com/user-attachments/assets/86fca2c8-2d00-4e38-b00b-014519e72e25)
+
+- 番茄小说平台字数统计
+![番茄小说示例](https://github.com/user-attachments/assets/4bf94439-d556-4a61-8d89-dd251085c9e8)
 
 ## 安装
 
