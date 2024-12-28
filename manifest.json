@@ -1,0 +1,11 @@
+{
+	"id": "chinese-wordcount",
+	"name": "Chinese Word Count",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "这是一个用于统计中文文本中词汇数量的插件，适用于使用obsidian进行网文写作的中文用户。",
+	"author": "YuGe",
+	"authorUrl": "",
+	"isDesktopOnly": false
+  }
+  
