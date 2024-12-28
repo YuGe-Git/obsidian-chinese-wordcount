@@ -88,3 +88,93 @@
 ## 鸣谢
 
 感谢 Obsidian 团队提供的优秀平台，以及社区的持续支持。
+
+
+
+---
+
+# Obsidian Chinese Word Count Plugin
+
+> Note: This section is the English version of the instructions.
+
+A lightweight and efficient plugin for Obsidian that helps you track the character count of your Markdown documents in real-time. Perfect for creators who need to monitor their progress, especially for Chinese content where word count typically refers to character count.
+
+## Features
+
+- **Real-time Character Count**: Automatically updates the character count as you type.
+- **Non-Whitespace Character Count**: Counts only meaningful characters, ignoring spaces and line breaks.
+- **Dynamic Status Bar Integration**: Displays the current character count in the Obsidian status bar.
+- **Multi-Event Updates**: Reacts to text changes, file switches, and active tab changes.
+- **Localization Ready**: Designed to support multiple languages (default is Chinese).
+
+## Installation
+
+### From the Obsidian Community Plugins
+1. Open Obsidian.
+2. Go to `Settings` > `Community Plugins` > `Browse`.
+3. Search for **Obsidian Chinese Word Count Plugin**.
+4. Click `Install` and enable the plugin.
+
+### Manual Installation
+1. Download the latest release from the [GitHub Releases](https://github.com/yourusername/chinese-word-count-plugin/releases) page.
+2. Extract the files and place them in your Obsidian plugin folder:
+   - Windows: `\path\to\vault\.obsidian\plugins`
+   - macOS/Linux: `/path/to/vault/.obsidian/plugins`
+3. Enable the plugin in `Settings` > `Community Plugins`.
+
+## Usage
+
+Once enabled, the plugin will display the current character count in the status bar. You don't need to do anything else—it works out of the box!
+
+## Advanced Options (Future Plans)
+
+- **Word Count**: Track the number of words in addition to characters.
+- **Sentence Count**: Monitor the number of sentences in your document.
+- **Customizable Display**: Choose which statistics to show in the status bar.
+
+## Development
+
+Feel free to contribute to this plugin! Here’s how you can set up the development environment:
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- Yarn or npm
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/chinese-word-count-plugin.git
+   ```
+
+2. Navigate to the plugin folder:
+   ```bash
+   cd chinese-word-count-plugin
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Build the plugin:
+   ```bash
+   npm run build
+   ```
+
+5. Copy the `main.js`, `manifest.json`, and `styles.css` (if any) files to your Obsidian plugin folder.
+
+6. Reload Obsidian to test your changes.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/yourusername/chinese-word-count-plugin/issues).
+
+## License
+
+This plugin is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/chinese-word-count-plugin/blob/main/LICENSE) file for details.
+
+## Acknowledgments
+
+Thanks to the Obsidian team for their amazing platform and to the community for their continuous support.
