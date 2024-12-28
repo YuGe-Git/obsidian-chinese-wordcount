@@ -2,14 +2,22 @@
 
 > 提醒：本部分为中文说明，后面附有英文说明（English version available below）。
 
-一个轻量且高效的 Obsidian 插件，帮助你实时追踪 Markdown 文档的字符数。非常适合需要实时监控进度的创作者，尤其是对中文内容创作时，字数统计往往指字符数。
+一个轻量且高效的 Obsidian 插件，帮助你实时追踪 Markdown 文档的字符数。
+非常适合需要实时监控进度的创作者，尤其是对中文的网文小说内容创作时，字数统计往往指字符数。
 
 ## 功能特性
-
 - **实时字符统计**：在你输入内容时，字符统计会自动更新。
 - **支持非空白字符统计**：仅统计有意义的字符，忽略空格和换行符。
 - **动态状态栏集成**：将当前字符数显示在 Obsidian 的状态栏。
 - **多事件更新**：对文本变化、文件切换和活动标签页切换做出响应。
+
+## 安装
+
+### 从 Obsidian 社区插件库安装
+1. 打开 Obsidian。
+2. 进入 `设置` > `社区插件` > `浏览`。
+3. 搜索 **chinese-wordcount**。
+4. 点击 `安装` 并启用插件。
 
 ## 演示图片
 ![示例](https://github.com/user-attachments/assets/8791abb1-6f55-411d-b492-405cff635536)
@@ -23,13 +31,7 @@
 - 番茄小说平台字数统计
 ![番茄小说示例](https://github.com/user-attachments/assets/4bf94439-d556-4a61-8d89-dd251085c9e8)
 
-## 安装
 
-### 从 Obsidian 社区插件库安装
-1. 打开 Obsidian。
-2. 进入 `设置` > `社区插件` > `浏览`。
-3. 搜索 **chinese-wordcount**。
-4. 点击 `安装` 并启用插件。
 
 ### 手动安装
 1. 从 [GitHub Releases](https://github.com/yourusername/chinese-word-count-plugin/releases) 页面下载最新版本。
